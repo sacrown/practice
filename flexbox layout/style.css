@@ -1,0 +1,48 @@
+
+body{
+    background-color: hsla(0, 0%, 100%, 0.75);
+}
+main{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction:auto;
+}
+.general{
+    display: flex;
+    width: 100%;
+}
+.general .head{
+    font-family: f;
+
+}
+
+.general .first{
+    background-color: hsl(31,77%, 52%);
+    color: white;
+    padding: 2em;
+    font-size: 15px;
+    font-family: fo;
+}
+.general .second{
+    background-color: hsl(184,100%, 22%);
+    color:  white;
+    padding: 2em;
+    font-size: 15px;
+
+}
+.general .third{
+    background-color: hsl(179, 100%, 13%);
+    color:  white;
+    padding: 2em;
+    font-size: 15px;
+   
+}
+.general .button-3{
+    border-radius: 12px;
+}
+
+
